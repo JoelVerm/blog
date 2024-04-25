@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@import url("https://flami.dev/static/main.css");
+
+:root {
+    --color-background: var(--color-section)
+}
