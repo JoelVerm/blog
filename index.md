@@ -6,6 +6,12 @@ Mostly recipes and other fun stuff!
 
 {% for page in site.pages %}
 
+{% assign ext = page.name | split:'.' | last %}
+
+{% if ext == "md" and page.name != "index.md" %}
+
 - [{{page.title}}]({{page.url}})
+
+{% endif %}
 
 {% endfor %}
