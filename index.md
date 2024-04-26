@@ -6,6 +6,6 @@ Mostly recipes and other fun stuff!
 
 {% for post in site.posts %}
 
-- [{{post.title}} ({{post.date}})]({{post.url}})
+- [{{post.title}} ({{post.date | date: "%-d %B %Y"}})]({{post.url}})
 
 {% endfor %}
