@@ -4,14 +4,8 @@ Mostly recipes and other fun stuff!
 
 ## Posts
 
-{% for page in site.pages %}
+{% for post in site.posts %}
 
-{% assign ext = page.name | split:'.' | last %}
-
-{% if ext == "md" and page.name != "index.md" %}
-
-- [{{page.title}}]({{page.url}})
-
-{% endif %}
+- [{{post.title}} (post.date)]({{post.url}})
 
 {% endfor %}
