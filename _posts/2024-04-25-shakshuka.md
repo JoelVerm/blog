@@ -29,7 +29,7 @@ Spices and stuff:
 
 1. Cut the onion and bell pepper into small pieces
 2. Add olive oil to a medium heat pan
-3. Add the onion and bell pepper to the pan and fry then until they're soft
+3. Add the onion and bell pepper to the pan and fry until they're soft
 4. Add the canned tomatoes
 5. Add the curry powder, cilantro, parsley, garlic, and salt
 6. Mix everything together very well
@@ -37,3 +37,16 @@ Spices and stuff:
 8. Crack the eggs into the pan on top of the tomato mixture
 9. When the eggs become slightly solid, add the grated cheese
 10. Serve with some yogurt and Mediterranean bread
+
+```nomnoml
+[Cut the onion and bell pepper into small pieces] ->
+[Add olive oil to a medium heat pan] ->
+[Add the onion and bell pepper to the pan and fry then until they're soft] ->
+[Add the canned tomatoes] ->
+[Add the curry powder, cilantro, parsley, garlic, and salt] ->
+[Mix everything together very well] ->
+[Let it simmer for a couple of minutes] ->
+[Crack the eggs into the pan on top of the tomato mixture] ->
+[When the eggs become slightly solid, add the grated cheese] ->
+[Serve with some yogurt and Mediterranean bread]
+```
