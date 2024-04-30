@@ -39,14 +39,14 @@ Spices and stuff:
 10. Serve with some yogurt and Mediterranean bread
 
 ```nomnoml
-[Cut the onion and bell pepper into small pieces] ->
+[Cut the onion and;bell pepper into small pieces] ->
 [Add olive oil to a medium heat pan] ->
-[Add the onion and bell pepper to the pan and fry then until they're soft] ->
+[Add the onion and bell pepper to;the pan and fry until they're soft] ->
 [Add the canned tomatoes] ->
-[Add the curry powder, cilantro, parsley, garlic, and salt] ->
+[Add the curry powder, cilantro,;parsley, garlic, and salt] ->
 [Mix everything together very well] ->
 [Let it simmer for a couple of minutes] ->
-[Crack the eggs into the pan on top of the tomato mixture] ->
-[When the eggs become slightly solid, add the grated cheese] ->
-[Serve with some yogurt and Mediterranean bread]
+[Crack the eggs into the pan;on top of the tomato mixture] ->
+[When the eggs become slightly solid,;add the grated cheese] ->
+[Serve with some yogurt;and Mediterranean bread]
 ```
