@@ -59,8 +59,8 @@ Every day
 > Your spirit fills\
 > us with His courage\
 > till the end
-
-2x
+>
+> 2x
 
 `Chorus 2x`
 
