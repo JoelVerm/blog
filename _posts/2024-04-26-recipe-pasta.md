@@ -7,7 +7,7 @@ Takes a bit of time but easier than it looks!
 
 As always, the ingredients are for 1 person so you can multiply them easily!
 
-- 100 grammes of tomatoes
+- 200 grammes of tomatoes
 - 100 grammes of pasta
 - Half a zucchini
 - 80 to 100 grammes of mushrooms
